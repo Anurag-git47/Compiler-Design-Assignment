@@ -24,7 +24,7 @@ This program calculates the distance between two points in 3D space using the Eu
 
    ```sh
    git clone <your-repo-url>
-   cd distance-3d
+   cd dCompiler-Design-Assignment
    ```
 
 2. Compile the program:
